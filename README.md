@@ -76,3 +76,7 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 
 - Patch
 - Swagger
+- Changer port (env)
+- Auth jwt sans cookie
+- tester l'ensemble de la connexion (tous les endpoints)
+- view sql generated
